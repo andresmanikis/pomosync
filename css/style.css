@@ -1,0 +1,20 @@
+#timer-container {
+	background-color: #E82C0C;
+	border-radius: 5px;
+	padding-bottom: 20px;
+}
+
+#remaining-time {
+	font-size: 8em;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+#progressbar {
+	width: 80%;
+}
+
+#progressbar .progress-bar {
+	background-color: #4D9630;
+}
